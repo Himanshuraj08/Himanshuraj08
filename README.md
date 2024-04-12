@@ -21,8 +21,3 @@
 
 
 
-def Himanshu_Raj():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn','matplotlib', 'seaborn', 'keras', 'flask', 'powerbi']
-  active_blogger = True
-  return ∞
